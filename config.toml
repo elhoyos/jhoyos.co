@@ -1,4 +1,4 @@
-baseURL = "http://jhoyos.co/"
+baseURL = "https://jhoyos.co/"
 languageCode = "en-us"
 title = "Juan Hoyos"
 theme = "contrast"
