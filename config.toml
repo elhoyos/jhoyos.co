@@ -1,0 +1,4 @@
+baseURL = "http://jhoyos.co/"
+languageCode = "en-us"
+title = "Juan Hoyos"
+theme = "contrast"
