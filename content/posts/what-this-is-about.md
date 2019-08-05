@@ -1,7 +1,6 @@
 ---
 title: "What this is about"
 date: 2019-08-04T17:37:46-05:00
-draft: true
 ---
 
 This is me sharing interesting learnings with you, inspired by [Julia Evans](https://jvns.ca) and [Juan David Caicedo](https://juancaicedo.com) (my "tocayo", a spanish word for namesake).
