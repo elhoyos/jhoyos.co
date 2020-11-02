@@ -10,4 +10,4 @@ But life takes us around other interesting and diverse experiences! I used to pr
 
 The personal benefits I obtain from this exercise are priceless, just putting together these paragraphs was fun. But what I really want is to cause an effect on you: **I want to inspire you.**
 
-Enjoya!
+Enjoy!
